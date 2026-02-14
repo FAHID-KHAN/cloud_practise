@@ -1,0 +1,7 @@
+node_modules
+.git
+.gitignore
+coverage
+*.md
+src/__tests__
+.env
